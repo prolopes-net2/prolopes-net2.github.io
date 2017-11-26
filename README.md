@@ -1,3 +1,3 @@
 # Prolopes-net2.github.io
 
-Home and my first website
+"RStudio", "Blogdown", "RMarkdown" and "Hugo.io" building "Prolopes-net2"
